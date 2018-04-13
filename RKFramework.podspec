@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
           #7.
           s.platform            = :ios, "10.0"
           #8.
-          s.source              = { :git => "URL", :tag => "1.0.0" }
+          s.source              = { :git => "https://github.com/rakeshsalian039/RKFramework.git", :tag => "1.0.0" }
           #9.
-          s.source_files     = "RK", "RK/**/*.{h,m,swift}"
+          s.source_files     = "RKFramework", "RKFramework/**/*.{h,m,swift}"
     end
