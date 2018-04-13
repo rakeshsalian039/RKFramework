@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jigarshah/Library/Developer/Xcode/DerivedData/RKFramework-chhxweyjjmrdzabdmrpuveptmpod/Build/Intermediates.noindex/ArchiveIntermediates/UniversalRKObject/BuildProductsPath/Release-iphonesimulator/RKFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RKFramework-Swift.h",
+          'external-contents': "/Users/jigarshah/Library/Developer/Xcode/DerivedData/RKFramework-chhxweyjjmrdzabdmrpuveptmpod/Build/Intermediates.noindex/ArchiveIntermediates/UniversalRKObject/BuildProductsPath/Release-iphonesimulator/RKFramework.framework/Headers/RKFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RKFramework.h",
+          'external-contents': "/Users/jigarshah/Documents/Rakesh/RKFramework/RKFramework/RKFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jigarshah/Library/Developer/Xcode/DerivedData/RKFramework-chhxweyjjmrdzabdmrpuveptmpod/Build/Intermediates.noindex/ArchiveIntermediates/UniversalRKObject/BuildProductsPath/Release-iphonesimulator/RKFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jigarshah/Documents/Rakesh/RKFramework/build/RKFramework.build/Release-iphonesimulator/RKFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

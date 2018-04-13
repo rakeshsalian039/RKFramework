@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "b8ae30dc007f223a88153e296b44664d"
+build_time: [1523455783, 391498000]
+inputs:
+  "/Users/jigarshah/Documents/Rakesh/RKFramework/RKFramework/RKFramework.swift": [1523438691, 0]

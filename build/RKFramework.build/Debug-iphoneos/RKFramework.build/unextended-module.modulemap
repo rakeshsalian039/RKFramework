@@ -1,0 +1,10 @@
+framework module RKFramework {
+  umbrella header "RKFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module RKFramework.__Swift {
+    exclude header "RKFramework-Swift.h"
+}

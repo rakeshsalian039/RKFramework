@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/jigarshah/Library/Developer/Xcode/DerivedData/RKFramework-chhxweyjjmrdzabdmrpuveptmpod/Build/Intermediates.noindex/ArchiveIntermediates/UniversalRKObject/BuildProductsPath/Release-iphoneos/RKFramework.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/jigarshah/Documents/Rakesh/RKFramework/build/RKFramework.build/Release-iphoneos/RKFramework.build/unextended-module.modulemap',
+    }]
+  }]
+}

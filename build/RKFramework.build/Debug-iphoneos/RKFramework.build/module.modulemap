@@ -1,0 +1,11 @@
+framework module RKFramework {
+  umbrella header "RKFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module RKFramework.Swift {
+    header "RKFramework-Swift.h"
+    requires objc
+}
