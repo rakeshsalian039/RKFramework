@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
           #3.  
           s.summary         = "Sort description of 'RK' framework"
           #4.
-          s.homepage        = "http://www.RK.com"
+          s.homepage        = "http://www.google.com"
           #5.
           s.license              = "MIT"
           #6.
@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
           #8.
           s.source              = { :git => "https://github.com/rakeshsalian039/RKFramework.git", :tag => "1.0.0" }
           #9.
-          s.source_files     = "RKFramework", "RKFramework/**/*.{h,m,swift}"
+          s.source_files     = "RKFramework", "RK/**/*.{h,m,swift}"
     end
